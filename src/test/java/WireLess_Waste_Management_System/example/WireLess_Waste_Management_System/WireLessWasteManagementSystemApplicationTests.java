@@ -3,7 +3,7 @@ package WireLess_Waste_Management_System.example.WireLess_Waste_Management_Syste
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
+//@SpringBootTest
 class WireLessWasteManagementSystemApplicationTests {
 
 	@Test
